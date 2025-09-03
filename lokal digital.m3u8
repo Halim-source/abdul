@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 group-logo="https://mncvision.id/userfiles/image/channel/channel_80.png"
+#EXTINF:-1 group-title="INDONESIA DIGITAL" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_80.png",RCTI HD
+http://103.172.71.153:9981/stream/channelid/353195065?profile=pass
+#EXTINF:-1 group-title="INDONESIA DIGITAL" tvg-logo="",MNCTV HD
+http://103.172.71.153:9981/stream/channelid/1781718036?profile=pass
+#EXTINF:-1 group-title="INDONESIA DIGITAL" tvg-logo="",INEWS HD
+http://103.172.71.153:9981/stream/channelid/1431393783?profile=pass
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="INDONESIA DIGITAL",TRANS TV HD
+http://103.170.33.11:9981/stream/channelid/479667605?profile=pass
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="INDONESIA DIGITAL",TRANS 7 HD
+http://103.170.33.11:9981/stream/channelid/602743647?profile=pass
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="INDONESIA DIGITAL",SCTV HD
+http://103.170.33.11:9981/stream/channelid/177596259?profile=pass
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="INDONESIA DIGITAL",INDOSIAR HD
+http://103.170.33.11:9981/stream/channelid/1003734703?profile=pass
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="INDONESIA DIGITAL",MOJI HD
+http://103.170.33.11:9981/stream/channelid/1896622786?profile=pass
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="INDONESIA DIGITAL",ANTV HD
+http://103.170.33.11:9981/stream/channelid/580266225?profile=pass
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="INDONESIA DIGITAL",TVONE HD
+http://103.170.33.11:9981/stream/channelid/1752496345?profile=pass
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="INDONESIA DIGITAL",METRO TV HD
+http://103.170.33.11:9981/stream/channelid/1929327430?profile=pass
+
+#EXTINF:-1 group-title="INDONESIA DIGITAL" tvg-logo="",TVRI SPORT
+http://103.172.71.153:9981/stream/channelid/157695539?profile=pass
