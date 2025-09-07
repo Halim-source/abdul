@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 group-logo="https://i.ibb.co.com/ZprYGKHq/pngtree-round-indonesia-flag-png-image-15694840.png"
 #EXTINF:-1 group-title="INDONESIA DIGITAL" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_80.png",RCTI HD
-http://103.99.136.34:9981/stream/channelid/1036545256?ticket=4442446D6041981227C78E3BEE418BEA60A11EC2&profile=pass
+http://103.66.62.83:8000/play/a06k/index.m3u8
 
 #EXTINF:-1 group-title="INDONESIA DIGITAL" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_82.png",MNCTV HD
 http://103.99.136.34:9981/stream/channelid/1115378633?ticket=441D7C313FD416F364B9B101EF6BB27D7C7161D1&profile=pass
@@ -20,7 +20,7 @@ http://103.66.62.83:8000/play/a06l/index.m3u8
 http://103.170.33.11:9981/stream/channelid/177596259?profile=pass
 
 #EXTINF:0 tvg-country="CN" tvg-logo="https://mncvision.id/userfiles/image/channel/Indosiar.png" group-title="INDONESIA DIGITAL",INDOSIAR HD
-http://103.170.33.11:9981/stream/channelid/1003734703?profile=pass
+http://103.66.62.83:8000/play/a069/index.m3u8
 
 #EXTINF:0 tvg-country="CN" tvg-logo="https://iili.io/JMp3vUJ.png" group-title="INDONESIA DIGITAL",MOJI HD
 http://103.170.33.11:9981/stream/channelid/1896622786?profile=pass
