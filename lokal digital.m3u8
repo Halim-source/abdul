@@ -14,7 +14,7 @@ http://103.172.71.153:9981/stream/channelid/1431393783?profile=pass
 http://103.170.33.11:9981/stream/channelid/479667605?profile=pass
 
 #EXTINF:0 tvg-country="CN" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_110.png" group-title="INDONESIA DIGITAL",TRANS 7 HD
-http://103.170.33.11:9981/stream/channelid/602743647?profile=pass
+http://103.66.62.83:8000/play/a06l/index.m3u8
 
 #EXTINF:0 tvg-country="CN" tvg-logo="https://mncvision.id/userfiles/image/channel/sctv.png" group-title="INDONESIA DIGITAL",SCTV HD
 http://103.170.33.11:9981/stream/channelid/177596259?profile=pass
