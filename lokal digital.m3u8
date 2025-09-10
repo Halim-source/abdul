@@ -20,7 +20,7 @@ http://103.66.62.83:8000/play/a06l/index.m3u8
 http://103.170.33.11:9981/stream/channelid/177596259?profile=pass
 
 #EXTINF:0 tvg-country="CN" tvg-logo="https://mncvision.id/userfiles/image/channel/Indosiar.png" group-title="INDONESIA DIGITAL",INDOSIAR HD
-http://27.54.117.100:9981/stream/channelid/137273635?ticket=85CD54ED525CDD0AE3186C40151059539F4FBB1C&profile=pass
+http://103.172.71.153:9981/stream/channelid/1185426831?profile=pass
 
 #EXTINF:0 tvg-country="CN" tvg-logo="https://iili.io/JMp3vUJ.png" group-title="INDONESIA DIGITAL",MOJI HD
 http://103.170.33.11:9981/stream/channelid/1896622786?profile=pass
